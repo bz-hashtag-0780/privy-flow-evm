@@ -20,7 +20,7 @@ export default function RootLayout({
 							logo: 'https://cryptologos.cc/logos/flow-flow-logo.png', // Replace with your logo
 						},
 						embeddedWallets: {
-							createOnLogin: 'users-without-wallets',
+							createOnLogin: 'all-users',
 						},
 						// Flow EVM configuration
 						defaultChain: {
