@@ -27,12 +27,16 @@ cd privy-flow-evm
  2.	Install Dependencies
 Install the required npm packages:
 
-```bash npm install```
+```bash 
+npm install
+```
 
  3.	Run Locally
 Start the development server:
 
-```bash npm run dev```
+```bash 
+npm run dev
+```
 
 Access your app at http://localhost:3000.
 
