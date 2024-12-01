@@ -4,15 +4,15 @@ This repository demonstrates how to integrate the Privy wallet with Flow EVM for
 
 ## Features
 
- •	Connect and authenticate users using the Privy wallet.
- •	Deploy the application quickly using Vercel.
- •	Follow the accompanying tutorial for a step-by-step guide.
+- Connect and authenticate users using the Privy wallet.
+- Deploy the application quickly using Vercel.
+- Follow the accompanying tutorial for a step-by-step guide.
 
 ## Prerequisites
 
 Before starting, ensure you have:
- •	Node.js installed on your system.
- •	A Vercel account for deploying the app.
+- Node.js installed on your system.
+- A Vercel account for deploying the app.
 
 ## Quick Start
 
