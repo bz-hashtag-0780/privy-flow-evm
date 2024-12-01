@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Privy Flow EVM Integration
 
-## Getting Started
+This repository demonstrates how to integrate the Privy wallet with Flow EVM for a seamless user experience. It provides a simple and effective solution for managing user authentication and wallet connections in a decentralized application (dApp).
 
-First, run the development server:
+## Features
+
+ •	Connect and authenticate users using the Privy wallet.
+ •	Deploy the application quickly using Vercel.
+ •	Follow the accompanying tutorial for a step-by-step guide.
+
+## Prerequisites
+
+Before starting, ensure you have:
+ •	Node.js installed on your system.
+ •	A Vercel account for deploying the app.
+
+## Quick Start
+
+ 1.	Clone the Repository
+Clone this repository to your local machine:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/privy-flow-evm.git
+cd privy-flow-evm
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 2.	Install Dependencies
+Install the required npm packages:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash npm install```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+ 3.	Run Locally
+Start the development server:
 
-## Learn More
+```bash npm run dev```
 
-To learn more about Next.js, take a look at the following resources:
+Access your app at http://localhost:3000.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ 4.	Deploy on Vercel
+To deploy the application:
+	•	Push your code to a GitHub repository.
+	•	Log in to Vercel at https://vercel.com/ and import your repository.
+	•	Follow the instructions to complete the deployment.
+	
+ 5.	Follow the Full Tutorial
+For a comprehensive guide on setting up and using this project, visit the tutorial:
+https://github.com/onflow/Telegram-Integration-Quickstarts/tree/main/Course_5_Connect_Privy_Wallet_Flow_EVM
